@@ -2,6 +2,8 @@
 
 A full-stack Retrieval-Augmented Generation (RAG) chatbot application built with FastAPI, Pinecone, OpenAI, and React.
 
+![Chatbot UI](imgs/chatbot_ui.png)
+
 ## Overview
 
 This application allows users to ask questions about Acme Tech Solutions (a fictional company), and the chatbot retrieves relevant information from company documents before generating accurate, context-aware responses.
