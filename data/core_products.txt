@@ -1,0 +1,9 @@
+Acme Tech Solutions offers a range of core products designed to help businesses improve efficiency, decision-making, and customer experience. Each product is built with scalability and ease of integration in mind.
+
+One of Acme’s primary products is AcmeFlow, a workflow automation platform for small and medium-sized businesses. AcmeFlow allows teams to automate repetitive tasks such as approvals, notifications, and data synchronization between systems. The platform supports API-based integrations with popular tools like CRMs, accounting software, and communication platforms.
+
+Another key product is InsightEdge, an AI-powered analytics solution. InsightEdge helps businesses analyze large volumes of operational data and generate actionable insights. Users can ask natural-language questions such as sales trends or performance metrics, and the system responds with structured answers and summaries.
+
+Acme Tech Solutions also offers SupportBot, a customizable AI chatbot designed for customer support and internal knowledge management. SupportBot can be trained on company documents, FAQs, and policies, enabling it to answer questions accurately and consistently.
+
+All Acme products are built using modern cloud-native architectures and follow security best practices. The company emphasizes modular design so customers can adopt products individually or as a combined solution.

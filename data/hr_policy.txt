@@ -1,0 +1,9 @@
+Acme Tech Solutions follows a people-first approach and believes that employee well-being and professional growth are critical to long-term success. The company operates as a remote-first organization, allowing employees to work from locations that best suit their productivity.
+
+Working hours at Acme Tech Solutions are flexible, but employees are expected to maintain reasonable overlap with their team to support collaboration. Performance is measured based on outcomes and quality of work rather than hours logged.
+
+The company provides paid time off, sick leave, and public holidays based on the employee’s local region. Employees are encouraged to take regular breaks and use their leave to avoid burnout. Mental health and work-life balance are actively promoted.
+
+Professional development is a key part of Acme’s HR policy. Employees receive an annual learning budget that can be used for courses, certifications, or conferences. Internal knowledge-sharing sessions are held regularly.
+
+Acme Tech Solutions maintains a zero-tolerance policy toward harassment and discrimination. All employees are expected to treat colleagues with respect and professionalism. Any concerns can be reported confidentially to the HR team.
